@@ -1,0 +1,148 @@
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Gnegnel\source\repos\Atestat1\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Atestat1\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\copie\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form3.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form4.resources
+C:\Users\Gnegnel\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form5.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form3.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form4.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form5.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form6.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form7.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form8.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form9.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form10.resources
+C:\Users\Cristi\Desktop\BB\Atestat\Atestat1\obj\Debug\Atestat1.Form11.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form10.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form11.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form3.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form4.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form5.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form6.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form7.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form8.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form9.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Cristi\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form10.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form11.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form3.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form4.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form5.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form6.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form7.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form8.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form9.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\bianc\OneDrive\Desktop\wetransfer-5ca943\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe.config
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\bin\Debug\Atestat1.pdb
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csprojAssemblyReference.cache
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form1.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form10.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form11.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form2.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form3.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form4.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form5.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form6.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form7.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form8.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Form9.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.exe
+C:\Users\Gnegnel\Desktop\BB\Primii pasi in coreeana\Atestat1\obj\Debug\Atestat1.pdb
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\bin\Debug\Atestat1.exe.config
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\bin\Debug\Atestat1.exe
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\bin\Debug\Atestat1.pdb
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.csproj.AssemblyReference.cache
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.csproj.SuggestedBindingRedirects.cache
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form1.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form10.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form11.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form2.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form3.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form4.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form5.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form6.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form7.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form8.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Form9.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.Properties.Resources.resources
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.csproj.GenerateResource.cache
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.csproj.CoreCompileInputs.cache
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.exe
+F:\New folder\atestat\Primii pași în coreeană\Atestat1\obj\Debug\Atestat1.pdb
